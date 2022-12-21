@@ -1,1 +1,2 @@
 msg = "Hello Kc!"
+msg2 = "Hello Zc!"
