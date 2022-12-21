@@ -1,3 +1,4 @@
 msg = "Hello Kc!"
 msg2 = "Hello Zc!"
 msg3 = "Hello lailai!"
+msg3 = "Hello laolai!"
